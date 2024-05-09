@@ -1,4 +1,6 @@
-<img align="right" height="150" src="https://media.giphy.com/media/ZJPSFNLmADueHvzoZ8/giphy.gif?cid=790b761157ux5qskj95aa53o4hqqqxx3t9l5q838n5w98955&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/ZJPSFNLmADueHvzoZ8/giphy.gif?cid=790b761157ux5qskj95aa53o4hqqqxx3t9l5q838n5w98955&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
@@ -17,6 +19,16 @@
 ###
 
 <h1 align="center">hey there 👋</h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/8wm7rboiyk854im7dxau7rtkp">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=8wm7rboiyk854im7dxau7rtkp&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
@@ -162,7 +174,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
